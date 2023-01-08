@@ -1,0 +1,157 @@
+.text-block {
+
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    align-items: center;
+
+    color: #000
+}
+
+.container .btn {
+
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    left: 1210px;
+    top: 578px;
+
+    background: #F15B22;
+    border-radius: 5px;
+    padding: 21px 26px;
+
+}
+
+.list .to-do-list {
+    text-align: center;
+    position: absolute;
+    width: 422px;
+    height: 392px;
+    left: 889px;
+    top: 1223px;
+    margin-bottom: 0 auto;
+}
+
+.list .description {
+    position: absolute;
+    width: 416px;
+    height: 104px;
+    left: 895px;
+    top: 1333px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+
+
+    color: #444343;
+
+
+}
+
+.list .new-description {
+    position: absolute;
+    width: 349px;
+    height: 162px;
+    left: 895px;
+    top: 1453px;
+    color: #444343;
+
+
+
+}
+
+.my-plans .section-title {
+    position: absolute;
+    width: 179px;
+    height: 47px;
+    left: 711px;
+    top: 1792.3px;
+
+
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+
+    color: #151414;
+
+
+
+
+
+}
+
+.plans-container {
+    position: absolute;
+    width: 506px;
+    height: 196.96px;
+    left: 247px;
+    top: 1882px;
+    display: flex;
+    gap:200px;
+    margin-top: 5%;
+
+
+}
+
+.content {
+    position: absolute;
+    width: 1140px;
+    height: 300px;
+    left: 230px;
+    top: 2222.26px;
+
+    background: linear-gradient(90deg, #F15B22 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 1px;
+
+}
+
+.text {
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+
+
+    color: #151414;
+
+}
+
+.content .button {
+
+    position: absolute;
+    top: 60%;
+    left: 5%;
+}
+
+.contact {
+
+    display: flex;
+    gap: 110px;
+    position: absolute;
+    width: 485px;
+    height: 317px;
+    left: 230px;
+    top: 2782.26px;
+
+    
+}
+.contact input{
+    margin-bottom: 24px;
+}
